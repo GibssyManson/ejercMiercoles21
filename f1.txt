@@ -1,0 +1,1 @@
+Este es el fichero f1 que lo creamos para conflicto en el ejercicio.
