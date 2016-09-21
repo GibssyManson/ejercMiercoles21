@@ -1,1 +1,4 @@
-este va a ser el segundo archivo de conflicto. Ahora resuelve María.
+
+este va a ser el segundo archivo de conflicto. 
+hola otra vez
+
